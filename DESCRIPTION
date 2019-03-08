@@ -1,0 +1,11 @@
+Package: NGSSEML
+Type: Package
+Title: Non-Gaussian state space with exact marginal likelihood
+Version: 1.0
+Date: 2019-03-08
+Author: T.R. Santos, D. Gamerman, G.C. Franco
+Maintainer: Thiago Rezende dos Santos <thiagords@est.ufmg.br>
+Description: This package provides some functions for modeling and forecasting non-Gaussian time series and reliability data via non-Gaussian state space models with exact marginal likelihood.
+Depends: R (>= 1.9.0), akima
+Imports: mvtnorm (>= 0.9-9),fields,compiler,dlm,installr,car
+License: GPL (>=2)
