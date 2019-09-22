@@ -29,3 +29,7 @@ Imports mvtnorm (>= 0.9-9), dlm, fields.
 License GPL (>=2).
 
 Disclaimer: Use of any code from this package is at own risk!
+
+Installation: 
+
+devtools::install_github("hadht/NGSSEML-R-Package/NGSSEML/NGSSEML_1.0")
