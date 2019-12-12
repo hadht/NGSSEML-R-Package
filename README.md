@@ -22,7 +22,7 @@ Maintainer: T. R. Santos thiagords@est.ufmg.br
 
 This package provides some functions for modeling and forecasting non- Gaussian time series and reliability data via non-Gaussian state space with exact marginal likelihood.
 
-Depends: R (>= 3.5.0).
+Depends: R (>= 3.5.1).
 
 Imports mvtnorm (>= 0.9-9), dlm, fields.
 
