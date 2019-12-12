@@ -26,7 +26,7 @@ Depends: R (>= 3.5.1).
 
 Imports mvtnorm (>= 0.9-9), dlm, fields.
 
-License GPL (>=2).
+License: ACM | file LICENSE.
 
 Disclaimer: Use of any code from this package is at own risk!
 
