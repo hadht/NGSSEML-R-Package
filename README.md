@@ -1,4 +1,4 @@
-# A NGSSEML R Package
+# The R-Package NGSSEML 
 
 Non-Gaussian State Space with Exact Marginal Likelihood R Package (Package NGSSEML)
 
