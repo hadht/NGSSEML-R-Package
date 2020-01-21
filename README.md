@@ -6,7 +6,7 @@ R Code.
 
 R Package ‘NGSSEML’
 
-December 11, 2019.
+January 14, 2020.
 
 Type: R Package.
 
@@ -14,26 +14,29 @@ Title Non-Gaussian state space models with exact marginal likelihood.
 
 Version 1.0
 
-Date 2019-12-11.
+Date 2020-01-14.
 
 Authors: T. R. Santos, G. C. Franco, D. Gamerman.
 
 Maintainer: T. R. Santos thiagords@est.ufmg.br
 
-This package provides some functions for modeling and forecasting non- Gaussian time series and reliability data via non-Gaussian state space with exact marginal likelihood.
+ Due to a large quantity of non-Gaussian time series and reliability data, the R-package non-Gaussian state-space with exact marginal likelihood is useful for modeling and forecasting non-Gaussian time series and reliability data via non-Gaussian state-space models with the exact marginal likelihood easily, see Gamerman, Santos and Franco (2013) <doi:10.1111/jtsa.12039> and Santos, Gamerman and Franco (2017) <doi:10.1109/TR.2017.2670142>. The package gives codes for formulating and specifying the non-Gaussian state-space models in the R language. Inferences for the parameters of the model can be made under the classical and Bayesian. Furthermore, prediction, filtering, and smoothing procedures can be used to perform inferences for the latent parameters. Applications include, e.g., count, volatility, piecewise exponential, and software reliability data.
 
 Depends: R (>= 3.5.1).
 
-Imports mvtnorm (>= 0.9-9), dlm, fields.
-
-License: ACM | file LICENSE.
-
-Disclaimer: Use of any code from this package is at own risk!
+URL: https://github.com/hadht/NGSSEML-R-Package
+Imports: 
+    mvtnorm,
+    fields,
+    compiler,
+    dlm,
+    car, interp
 
 Installation: 
 
 devtools::install_github("hadht/NGSSEML-R-Package/NGSSEML/NGSSEML_1.0")
-
 or 
-
 install.packages("NGSSEML")
+
+Disclaimer: Use of any code from this package is at own risk!
+
