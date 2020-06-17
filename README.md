@@ -6,15 +6,13 @@ R Code.
 
 R Package ‘NGSSEML’
 
-January 14, 2020.
-
 Type: R Package.
 
 Title Non-Gaussian state space models with exact marginal likelihood.
 
-Version 1.0
+Version 2.0
 
-Date 2020-01-14.
+Date 2020-06-17.
 
 Authors: T. R. Santos, G. C. Franco, D. Gamerman.
 
