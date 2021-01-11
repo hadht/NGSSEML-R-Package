@@ -32,7 +32,7 @@ Imports:
 
 Installation: 
 
-devtools::install_github("hadht/NGSSEML-R-Package/NGSSEML/NGSSEML_2.0")
+devtools::install_github("hadht/NGSSEML-R-Package/NGSSEML_2.1")
 or 
 install.packages("NGSSEML")
 
