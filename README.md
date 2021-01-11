@@ -33,6 +33,11 @@ Imports:
 Installation: 
 
 devtools::install_github("hadht/NGSSEML-R-Package/NGSSEML_2.1")
+
+Essentially you can install packages using devtools by unzipping a local zipfile downloaded from github, and then running the install function
+install("path/to/unzipped_pkg_zip_file/NGSSEML_2.1.zip")
+The latest dev version of devtools contains an install_local utility function that makes it easy to work directly with local zip files.
+
 or 
 install.packages("NGSSEML")
 
