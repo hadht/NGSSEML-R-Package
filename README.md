@@ -38,10 +38,10 @@ install.packages("NGSSEML")
 
 Or
 
-Essentially, you can install packages using devtools by unzipping a local zipfile downloaded from github, 
-and then running utils:::menuInstallLocal()
+Essentially, you can install packages using utils by unzipping a local zipfile downloaded from github, 
+and then running  utils:::menuInstallLocal()
 
-and searching where the zip file NGSSEML_2.1.zip have been saved.
+and searching where the zip file  NGSSEML_2.1.zip  have been saved.
 
 
 
