@@ -10,9 +10,9 @@ Type: R Package.
 
 Title Non-Gaussian state space models with exact marginal likelihood.
 
-Version 2.1
+Version 2.2
 
-Date 2020-10-19.
+Date 2021-03-11.
 
 Authors: T. R. Santos, G. C. Franco, D. Gamerman.
 
@@ -41,7 +41,7 @@ Or
 Essentially, you can install packages using utils by unzipping a local zipfile downloaded from github, 
 and then running  utils:::menuInstallLocal()
 
-and searching where the zip file  NGSSEML_2.1.zip  have been saved.
+and searching where the zip file  NGSSEML_2.2.zip  have been saved.
 
 
 
